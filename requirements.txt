@@ -1,0 +1,5 @@
+fastapi==0.95.0         # FastAPI, o framework principal
+uvicorn==0.17.6         # Uvicorn, o servidor ASGI para rodar a aplicação FastAPI
+SQLAlchemy==1.4.36      # SQLAlchemy, para interagir com o banco de dados
+pydantic==1.9.0         # Pydantic, para a validação de dados no FastAPI
+PyMySQL==1.0.2          # PyMySQL, o driver MySQL para conectar com o banco de dados MySQL
